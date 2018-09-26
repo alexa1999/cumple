@@ -1,0 +1,182 @@
+2015-11-10 15:26:56 10fc InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2015-11-10 15:26:56 4348 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2015-11-10 15:26:56 4348 [Note] InnoDB: The InnoDB memory heap is disabled
+2015-11-10 15:26:56 4348 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2015-11-10 15:26:56 4348 [Note] InnoDB: Memory barrier is not used
+2015-11-10 15:26:56 4348 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2015-11-10 15:26:56 4348 [Note] InnoDB: Not using CPU crc32 instructions
+2015-11-10 15:26:56 4348 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2015-11-10 15:26:56 4348 [Note] InnoDB: Completed initialization of buffer pool
+2015-11-10 15:26:56 4348 [Note] InnoDB: Highest supported file format is Barracuda.
+2015-11-10 15:26:57 4348 [Note] InnoDB: 128 rollback segment(s) are active.
+2015-11-10 15:26:57 4348 [Note] InnoDB: Waiting for purge to start
+2015-11-10 15:26:57 4348 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.26-74.0 started; log sequence number 1835027
+2015-11-10 15:26:57 6140 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2015-11-10 15:26:57 4348 [Note] Plugin 'FEEDBACK' is disabled.
+2015-11-10 15:26:57 4348 [Note] Server socket created on IP: '::'.
+2015-11-10 15:26:57 4348 [Note] Event Scheduler: Loaded 0 events
+2015-11-10 15:26:57 4348 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2015-11-10 15:27:11 5152 [Note] C:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+2015-11-10 15:27:11 5152 [Note] Event Scheduler: Purging the queue. 0 events
+2015-11-10 15:27:11 5732 [Note] InnoDB: FTS optimize thread exiting.
+2015-11-10 15:27:11 5152 [Note] InnoDB: Starting shutdown...
+2015-11-10 15:27:13 5152 [Note] InnoDB: Shutdown completed; log sequence number 1835037
+2015-11-10 15:27:13 5152 [Note] C:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+2018-06-14 11:41:39 750 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-06-14 11:41:39 1872 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-06-14 11:41:40 1872 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-06-14 11:41:40 1872 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-14 11:41:40 1872 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-06-14 11:41:40 1872 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-06-14 11:41:40 1872 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-14 11:41:40 1872 [Note] InnoDB: Using generic crc32 instructions
+2018-06-14 11:41:40 1872 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-06-14 11:41:40 1872 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-14 11:41:40 1872 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-14 11:41:41 1872 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-14 11:41:41 1872 [Note] InnoDB: Waiting for purge to start
+2018-06-14 11:41:41 1872 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.38-83.0 started; log sequence number 1835037
+2018-06-14 11:41:41 3632 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-06-14 11:41:41 1872 [Note] Plugin 'FEEDBACK' is disabled.
+2018-06-14 11:41:41 1872 [Note] Server socket created on IP: '::'.
+2018-06-14 11:41:42 1872 [Note] d:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-06-21 12:12:55 1288 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-06-21 12:12:55 4744 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-06-21 12:12:55 4744 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-06-21 12:12:55 4744 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-21 12:12:55 4744 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-06-21 12:12:55 4744 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-06-21 12:12:55 4744 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-21 12:12:55 4744 [Note] InnoDB: Using generic crc32 instructions
+2018-06-21 12:12:55 4744 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-06-21 12:12:55 4744 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-21 12:12:56 4744 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-21 12:12:56 4744 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1847763 in the ib_logfiles!
+2018-06-21 12:12:58 4744 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-06-21 12:13:04 4744 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-21 12:13:04 4744 [Note] InnoDB: Waiting for purge to start
+2018-06-21 12:13:04 4744 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.38-83.0 started; log sequence number 1847763
+2018-06-21 12:13:05 3724 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-06-21 12:13:05 4744 [Note] Plugin 'FEEDBACK' is disabled.
+2018-06-21 12:13:05 4744 [Note] Server socket created on IP: '::'.
+2018-06-21 12:13:06 4744 [Note] d:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-06-22 10:16:00 2ea0 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-06-22 10:16:00 11936 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-06-22 10:16:00 11936 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-06-22 10:16:00 11936 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-22 10:16:00 11936 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-06-22 10:16:00 11936 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-06-22 10:16:00 11936 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-22 10:16:00 11936 [Note] InnoDB: Using generic crc32 instructions
+2018-06-22 10:16:00 11936 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-06-22 10:16:00 11936 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-22 10:16:00 11936 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-22 10:16:00 11936 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1875620 in the ib_logfiles!
+2018-06-22 10:16:00 11936 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-06-22 10:16:01 11936 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-22 10:16:01 11936 [Note] InnoDB: Waiting for purge to start
+2018-06-22 10:16:01 11936 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.38-83.0 started; log sequence number 1875620
+2018-06-22 10:16:01 12568 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-06-22 10:16:01 11936 [Note] Plugin 'FEEDBACK' is disabled.
+2018-06-22 10:16:01 11936 [Note] Server socket created on IP: '::'.
+2018-06-22 10:16:01 11936 [Note] d:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-06-22 10:59:51 4328  InnoDB: Error: in ALTER TABLE `banco`.`cliente`
+InnoDB: has or is referenced in foreign key constraints
+InnoDB: which are not compatible with the new table definition.
+2018-09-11 02:46:04 10cc InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-09-11  2:46:04 4300 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-09-11  2:46:04 4300 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-09-11  2:46:04 4300 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-09-11  2:46:04 4300 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-09-11  2:46:04 4300 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-09-11  2:46:04 4300 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-09-11  2:46:04 4300 [Note] InnoDB: Using generic crc32 instructions
+2018-09-11  2:46:04 4300 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-09-11  2:46:04 4300 [Note] InnoDB: Completed initialization of buffer pool
+2018-09-11  2:46:04 4300 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-09-11  2:46:04 4300 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1999452 in the ib_logfiles!
+2018-09-11  2:46:05 4300 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-09-11  2:46:06 4300 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-09-11  2:46:06 4300 [Note] InnoDB: Waiting for purge to start
+2018-09-11  2:46:06 4300 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.38-83.0 started; log sequence number 1999452
+2018-09-11  2:46:06 4420 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-09-11  2:46:06 4300 [Note] Plugin 'FEEDBACK' is disabled.
+2018-09-11  2:46:06 4300 [Note] Server socket created on IP: '::'.
+2018-09-11  2:46:06 4300 [Note] d:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-09-14 10:27:59 3c4 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-09-14 10:27:59 964 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-09-14 10:27:59 964 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-09-14 10:27:59 964 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-09-14 10:27:59 964 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-09-14 10:27:59 964 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-09-14 10:27:59 964 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-09-14 10:27:59 964 [Note] InnoDB: Using generic crc32 instructions
+2018-09-14 10:27:59 964 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-09-14 10:27:59 964 [Note] InnoDB: Completed initialization of buffer pool
+2018-09-14 10:27:59 964 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-09-14 10:27:59 964 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1999462 in the ib_logfiles!
+2018-09-14 10:27:59 964 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-09-14 10:28:00 964 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-09-14 10:28:00 964 [Note] InnoDB: Waiting for purge to start
+2018-09-14 10:28:00 964 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.38-83.0 started; log sequence number 1999462
+2018-09-14 10:28:00 4760 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-09-14 10:28:00 964 [Note] Plugin 'FEEDBACK' is disabled.
+2018-09-14 10:28:00 964 [Note] Server socket created on IP: '::'.
+2018-09-14 10:28:00 964 [Note] d:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-09-20 11:45:01 1770 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-09-20 11:45:01 6000 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-09-20 11:45:01 6000 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-09-20 11:45:01 6000 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-09-20 11:45:01 6000 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-09-20 11:45:01 6000 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-09-20 11:45:01 6000 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-09-20 11:45:01 6000 [Note] InnoDB: Using generic crc32 instructions
+2018-09-20 11:45:01 6000 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-09-20 11:45:01 6000 [Note] InnoDB: Completed initialization of buffer pool
+2018-09-20 11:45:02 6000 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-09-20 11:45:02 6000 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2020880 in the ib_logfiles!
+2018-09-20 11:45:05 6000 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-09-20 11:45:13 6000 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-09-20 11:45:13 6000 [Note] InnoDB: Waiting for purge to start
+2018-09-20 11:45:13 6000 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.38-83.0 started; log sequence number 2020880
+2018-09-20 11:45:14 5400 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-09-20 11:45:14 6000 [Note] Plugin 'FEEDBACK' is disabled.
+2018-09-20 11:45:14 6000 [Note] Server socket created on IP: '::'.
+2018-09-20 11:45:15 6000 [Note] d:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-09-21 10:14:22 1508 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-09-21 10:14:22 5384 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-09-21 10:14:22 5384 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-09-21 10:14:22 5384 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-09-21 10:14:22 5384 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-09-21 10:14:22 5384 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-09-21 10:14:22 5384 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-09-21 10:14:22 5384 [Note] InnoDB: Using generic crc32 instructions
+2018-09-21 10:14:22 5384 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-09-21 10:14:22 5384 [Note] InnoDB: Completed initialization of buffer pool
+2018-09-21 10:14:23 5384 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-09-21 10:14:23 5384 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2043939 in the ib_logfiles!
+2018-09-21 10:14:26 5384 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-09-21 10:14:31 5384 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-09-21 10:14:31 5384 [Note] InnoDB: Waiting for purge to start
+2018-09-21 10:14:31 5384 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.38-83.0 started; log sequence number 2043939
+2018-09-21 10:14:31 4180 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-09-21 10:14:31 5384 [Note] Plugin 'FEEDBACK' is disabled.
+2018-09-21 10:14:31 5384 [Note] Server socket created on IP: '::'.
+2018-09-21 10:14:32 5384 [Note] d:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
